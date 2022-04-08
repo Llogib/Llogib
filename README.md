@@ -7,6 +7,7 @@ this->me
 /\*But I'll struggle to adapt to it, 
   to learn it and to try it.\*/
 
+ps: the avatar is a picture which is from pixiv.net 
 
 <!---
 Llogib/Llogib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
